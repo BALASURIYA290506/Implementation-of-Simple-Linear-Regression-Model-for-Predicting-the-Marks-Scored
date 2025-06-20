@@ -26,7 +26,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Balasuriya M
 
 RegisterNumber: 212224240021
-
+```python
 import pandas as pd
 
 import numpy as np
@@ -102,6 +102,7 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 
 plt.show()
+```
 
 ## Output:
 ![Screenshot 2025-04-19 222506](https://github.com/user-attachments/assets/9a7ce484-f047-4077-96ac-c5e67d5a0a7d)
